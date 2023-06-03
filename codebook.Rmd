@@ -1,0 +1,34 @@
+---
+title: "UCI HAR Tidy Data"
+author: "Vanessa Ferreira"
+date: "2023-06-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Class of the tidy data
+
+```{datatype}
+
+class(HAR_activity_labels)
+
+```
+
+Summary of the tidy data
+
+```{summary}
+
+summary(HAR_activity_labels)
+
+```
+
+Average of all features by activies
+
+```{r pressure, echo=FALSE}
+HAR_avg_byactivity
+
+```
+
