@@ -10,7 +10,6 @@ In this repo you will find:
  	  d.Uses descriptive activity names to name the activities in the data set  
  	  e.Appropriately labels the data set with descriptive variable names.  
     Finally, it will create two tidy data sets and save in your R working environment.
-   3. HAR_tidydata.csv -> Tidy data after following the steps described above.
-   4. HAR_avgbyactivity.csv -> Data set 'HAR_tidydata' summarized inder to creates a independent tidy data set with the average of each variable for each activity and each subject.
-   5. CodeBook.md -> A code book that describes the variables and the data.
+   2. tidyData.csv -> Data set summarized inder to creates a independent tidy data set with the average of each variable for each activity and each subject.
+   3. CodeBook.md -> A code book that describes the variables and the data.
     
